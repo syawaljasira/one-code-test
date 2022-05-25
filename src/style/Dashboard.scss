@@ -1,0 +1,11 @@
+.dashboard {
+  padding-top: 13vh;
+
+  &__img {
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+}
